@@ -18,13 +18,28 @@ and contribute to real development projects.
 - **Tools:** Git, GitHub, IntelliJ IDEA, Visual Studio Code  
 
 ## 📱 Featured Projects
-- **Android App – Product Lists**  
-  Mobile application to manage multiple product lists with full CRUD functionality 
-  and local persistence.
+- **Wordle Game (Java)**  
+  Wordle-style game demonstrating programming logic and array management.
 
-- **Contract Management using XML (Java)**  
-  Java application for reading and validating contract data stored in XML files, 
-  including error handling for missing or empty required fields.
+- **Unit Converter (Android)**  
+  Mobile application to convert different units with a simple, functional interface.  
+  *Android Studio, Java/Kotlin*
+
+- **XML Contract Data Access (Java)**  
+  Java application for reading, validating, and managing contract data stored in XML files.  
+  Handles errors for missing required fields.
+
+- **SupermarketApp (Android)**  
+  Mobile app to manage multiple product lists, full CRUD functionality, and local persistence.  
+  *Android Studio, Java/Kotlin, Room, Jetpack Compose*
+
+- **Portfolio Website (HTML & CSS)** *(in progress)*  
+  Personal website showcasing projects and skills. Responsive and modern design.
+
+- **Fictional Company Website (HTML & CSS)**  
+  Web page created for a fictional company, demonstrating layout, design, and content structuring.  
+  *HTML5, CSS3, responsive design*
+
 
 ## 🌐 Portfolio
 - Personal web portfolio built with **HTML and CSS** *(in progress)*
