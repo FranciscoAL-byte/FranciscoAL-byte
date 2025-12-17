@@ -1,7 +1,7 @@
 # Hi, I'm Francisco 👋
 
 <p align="center">
-  <img src="assets/profile.png" alt="Francisco profile image" width="200"/>
+  <img src="assets/profile.jpg" alt="Francisco profile image" width="200"/>
 </p>
 
 I'm a student of **Multiplatform Application Development (DAM)** based in Granada, 
