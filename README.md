@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Francisco 👋
 
-<!--
-**FranciscoAL-byte/FranciscoAL-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="assets/profile.png" alt="Francisco profile image" width="200"/>
+</p>
 
-Here are some ideas to get you started:
+I'm a student of **Multiplatform Application Development (DAM)** based in Granada, 
+with a strong interest in **mobile application development and software development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently looking for **internship opportunities** where I can continue learning 
+and contribute to real development projects.
+
+## 🛠️ Technologies & Tools
+- **Languages:** Java, Kotlin (basic), SQL, HTML5, CSS3  
+- **Mobile development:** Android Studio, Jetpack Compose  
+- **Databases:** MySQL, Oracle SQL  
+- **Tools:** Git, GitHub, IntelliJ IDEA, Visual Studio Code  
+
+## 📱 Featured Projects
+- **Android App – Product Lists**  
+  Mobile application to manage multiple product lists with full CRUD functionality 
+  and local persistence.
+
+- **Contract Management using XML (Java)**  
+  Java application for reading and validating contract data stored in XML files, 
+  including error handling for missing or empty required fields.
+
+## 🌐 Portfolio
+- Personal web portfolio built with **HTML and CSS** *(in progress)*
+
+## 📫 Contact
+- Email: arraballujanfrancisco@gmail.com
+
